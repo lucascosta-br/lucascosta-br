@@ -34,9 +34,12 @@ Sou desenvolvedor back-end com foco em **Java e Spring Boot**. Desde meu primeir
   <a href="ls.coosta@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="microsoft-outlook logo"  />
   </a>
+  
 [![GitHub followers](https://img.shields.io/github/followers/lucascosta-br.svg?style=social&label=Follow)](https://github.com/lucascosta-br?tab=followers)
 
 </div>
+
+
 
 ## ⚡ Github Stats
 
