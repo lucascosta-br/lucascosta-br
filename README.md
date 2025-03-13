@@ -28,8 +28,8 @@ Sou desenvolvedor back-end com foco em **Java e Spring Boot**. Desde meu primeir
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/lucascosta-br/" target="_blank""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ls.coosta@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lucascosta-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ls.coosta@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 [![GitHub followers](https://img.shields.io/github/followers/lucascosta-br.svg?style=social&label=Follow)](https://github.com/lucascosta-br?tab=followers)
 
 ## ⚡ Github Stats
