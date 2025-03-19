@@ -28,11 +28,14 @@ Sou desenvolvedor back-end com foco em **Java e Spring Boot**. Desde meu primeir
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/lucascosta-br) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ls.coosta@hotmail.com) 
-  
-  <a href="https://github.com/lucascosta-br?tab=followers" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/lucascosta-br.svg?style=social&label=Follow" alt="GitHub followers" />
+  <a href="https://www.linkedin.com/in/lucascosta-br/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
+  <a href="ls.coosta@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="microsoft-outlook logo"  />
+  </a>
+  
+[![GitHub followers](https://img.shields.io/github/followers/lucascosta-br.svg?style=social&label=Follow)](https://github.com/lucascosta-br?tab=followers)
 
 </div>
 
