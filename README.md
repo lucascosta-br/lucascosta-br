@@ -13,61 +13,29 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
 
-  <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" />
-<img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
+<img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="spring"  alt="spring"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="25" title="tomcat" alt="tomcat"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="25"  title="apache" alt="apache"  />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
-<img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
+<img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
 <img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" title="Google Cloud" alt="googlecloud"  />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
-<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular JS" alt="Angular" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="25" title="intellij" alt="intellij"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="25" title="Jira" alt="jira"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" title="Linux" alt="linux logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="25" title="Trello" alt="trello logo"  />
+<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
+<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" />
+<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular" alt="Angular" />
+
 </div>
 
 ###
