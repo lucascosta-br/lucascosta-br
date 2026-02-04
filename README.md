@@ -5,7 +5,7 @@ Sou **Desenvolvedor Backend Java**, com foco no desenvolvimento de **APIs RESTfu
 ## 🚀 Atuação atual
 - Desenvolvimento de **projetos backend pessoais**
 - Construção e evolução de **APIs RESTful**
-- Desenvolvimento e estruturação do meu **primeiro SaaS**
+- Desenvolvimento e estruturação do meu **primeiro Micro-SaaS**
 
 ## 🛠️ Ferramentas que utilizo
 - **Java 21, Spring Boot**
