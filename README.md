@@ -2,14 +2,10 @@
 
 Sou **Desenvolvedor Backend Java**, com foco no desenvolvimento de **APIs RESTful** utilizando **Java 21 e Spring Boot**, aplicando boas práticas de engenharia de software, arquitetura e segurança.
 
----
-
 ## 🚀 Atuação atual
 - Desenvolvimento de **projetos backend pessoais**
 - Construção e evolução de **APIs RESTful**
 - Desenvolvimento e estruturação do meu **primeiro SaaS**
-
----
 
 ## 🛠️ Ferramentas que utilizo
 - **Java 21, Spring Boot**
@@ -22,6 +18,6 @@ Sou **Desenvolvedor Backend Java**, com foco no desenvolvimento de **APIs RESTfu
 ---
 
 ## 📬 Contato
-- 💼 **LinkedIn:** [linkedin.com/in/lucascosta-br/](https://linkedin.com)
+- 💼 **LinkedIn:** [linkedin.com/in/lucascosta-br/](https://linkedin.com/in/lucascosta-br)
 - 📧 **Email:** ls.coosta@hotmail.com
 - 💻 **GitHub:** você já está aqui 😉
